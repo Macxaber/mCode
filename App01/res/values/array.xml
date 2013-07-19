@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_array">
+        <item >All News</item>
+        <item >Admission</item>
+        <item >FAQs</item>
+    </string-array>
+    <string-array name = "newsfeed">
+        <item >blablabla</item>
+        <item >boobooboo</item>
+        <item >beebeebee</item>
+        <item >bipbipbip</item>
+        <item >bopbopbop</item>
+        <item >bapbapbap</item>
+    </string-array>
+    
+</resources>
